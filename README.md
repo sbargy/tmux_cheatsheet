@@ -99,6 +99,6 @@ Key|Description
 `y`|Copy selection to buffer
 
 ## More
-* [`~/.tmux.conf`](https://github.com/der-flo/dotfiles/blob/master/tmux.conf)
+* [`~/.tmux.conf`](https://github.com/der-flo/dotfiles/blob/master/misc/tmux.conf)
 * [tmux: Productive Mouse-Free Development](http://pragprog.com/book/bhtmux/tmux).
 * [Man page](http://www.openbsd.org/cgi-bin/man.cgi?query=tmux)
